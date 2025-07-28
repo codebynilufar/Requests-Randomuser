@@ -1,0 +1,11 @@
+{
+    "first_name": "Dileep",
+    "last_name": "Gatty",
+    "gender": "male",
+    "phone": "9433033169",
+    "address": {
+        "street_name": "Janpath",
+        "city": "Vadodara",
+        "country": "India"
+    }
+}
